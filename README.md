@@ -1,0 +1,2 @@
+# Spellburst
+大人気DCGのShadowverseに出演しているウィッチのイザベル用のプログラミング言語です。
